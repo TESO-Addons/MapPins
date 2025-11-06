@@ -6746,7 +6746,7 @@ local CustomPins={	--Types
 		},
 	[10]={section=true,name="World_achievements",id={},pin={},texture="/esoui/art/progression/progression_indexicon_world_up.dds",
 		[42]={name="pinType_I_like_M'aiq",done=false,ach=872,maxDistance=0.05,level=101,texture="/esoui/art/icons/achievement_066.dds",k=1},
-		[43]={name="pinType_Lightbringer",done=false,maxDistance=0.05,level=101,texture="/esoui/art/miscellaneous/help_icon.dds",k=1.25},
+		[43]={name="pinType_Lightbringer",done=false,ach=873,maxDistance=0.05,level=101,texture="/esoui/art/miscellaneous/help_icon.dds",k=1.25},
 		[44]={name="pinType_Peacemaker",done=false,ach=716,maxDistance=0.05,level=101,texture="/esoui/art/icons/ability_healer_017.dds",k=1},
 		},
 	[11]={section=true,name="Orsinium",id={},pin={},texture="/esoui/art/treeicons/tutorial_idexicon_wrothgar_up.dds",	--"/esoui/art/icons/store_orsiniumdlc_collectable.dds",
